@@ -32,8 +32,8 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
 - **Information Processing Engineer**
 - **SQLD (SQL Developer)**
 - **ADsP (Advanced Data Analytics Professional)**
-- **Network Administrator Level 2**
-- **Linux Master Level 2**
+- **Network Administrator**
+- **Linux Master**
 
 ## 🌐 Language Proficiency
 
@@ -44,8 +44,7 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
 <p align="center">
   <a href="https://github.com/freecoderer"><img src="https://img.shields.io/badge/-freecoderer-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kdh1999dev"><img src="https://img.shields.io/badge/-Donghyun%20Kim-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:donggood7@naver.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

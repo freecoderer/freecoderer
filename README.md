@@ -33,38 +33,6 @@ I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate 
 
 ---
 
-## 🔥 Projects
-
-### Mylist
-A music taste-based web/app platform that enables users to share and interact based on their music preferences.
-- **Role**: Founder, Project Owner, Frontend Developer, AI Developer
-- **Technologies**: React, Node.js, MongoDB, Python, Langchain
-- **Highlights**: Implemented AI-based music recommendation system, secured over 200 active users, and generated actual sales through profile matching services.
-- ![Mylist](https://github-readme-stats.vercel.app/api/pin/?username=freecoderer&repo=mylist&theme=radical)
-
-### Neo Trinity
-A blockchain-based service for campus rentals and voting.
-- **Role**: Project Manager, Embedded SW Developer
-- **Technologies**: Blockchain, IoT, Python
-- **Highlights**: Developed a token-based authentication system using zero-knowledge proofs to prevent tampering, integrated IoT devices for secure access control.
-- ![Neo Trinity](https://github-readme-stats.vercel.app/api/pin/?username=freecoderer&repo=neotrinity&theme=radical)
-
-### ZOOP
-A plogging app designed to encourage environmental cleanup activities.
-- **Role**: Project Manager
-- **Technologies**: React Native, Node.js, MongoDB
-- **Highlights**: Enabled users to earn volunteer hours through the app, promoting environmental responsibility.
-- ![ZOOP](https://github-readme-stats.vercel.app/api/pin/?username=freecoderer&repo=zoop&theme=radical)
-
-### My Green
-An interactive plant management embedded web app system.
-- **Role**: Project Manager, Embedded Developer
-- **Technologies**: Raspberry Pi, Flutter, Python
-- **Highlights**: Developed an app to monitor and manage plant health, incorporated LLM model for interactive user experience.
-- ![My Green](https://github-readme-stats.vercel.app/api/pin/?username=freecoderer&repo=mygreen&theme=radical)
-
----
-
 ## 🏆 Certifications
 
 - **Information Processing Engineer**
@@ -81,15 +49,6 @@ An interactive plant management embedded web app system.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freecoderer&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freecoderer&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
 ## 🌟 Connect with Me
 
 <p align="center">
@@ -103,24 +62,6 @@ An interactive plant management embedded web app system.
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="50">
-</p>
-
----
-
-## 🎨 Fun Zone
-
-<p align="center">
-  <img src="https://github.com/freecoderer/freecoderer/blob/main/fun-zone.gif" alt="Fun Zone GIF">
-</p>
-
----
-
-## 📈 Visitor Count
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=freecoderer.freecoderer" alt="Visitor Count">
-  <img src="https://img.shields.io/github/followers/freecoderer?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/freecoderer?style=social" alt="GitHub Stars">
 </p>
 
 ![Footer](https://user-images.githubusercontent.com/yourusername/yourfooterimage.png)

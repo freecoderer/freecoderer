@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20%20&height=100&fontSize=90&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/l0MYLONk4kLl5QySI/giphy.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/yourusername/yourmemeimage.png" width="400">
 </p>
 
 ## About Me
@@ -13,7 +11,7 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
 
 - 🎓 **Education**: Computer Engineering graduate from Catholic University | Exchange student at University of Skövde, Sweden
 - 🌱 **Learning Goals**: Continuously aiming to grow as a generalist who can seamlessly integrate various IT ecosystems within project management.
-- 💼 **Vision**: Creating services that bring happiness to users, helping people grow, and contributing to a happier society.t
+- 💼 **Vision**: Creating services that bring happiness to users, helping people grow, and contributing to a happier society.
 
 ## 🛠 Skills
 
@@ -48,12 +46,6 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
   <a href="https://www.linkedin.com/in/kdh1999dev"><img src="https://img.shields.io/badge/-Donghyun%20Kim-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="150">
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)

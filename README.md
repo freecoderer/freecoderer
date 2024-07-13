@@ -15,8 +15,6 @@ I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate 
 - 🌱 **Learning Goals**: Continuously aiming to grow as a generalist who can seamlessly integrate various IT ecosystems within project management.
 - 💼 **Vision**: Creating services that bring happiness to users, helping people grow, and contributing to a happier society.
 
----
-
 ## 🛠 Skills
 
 ### Languages & Frameworks
@@ -31,8 +29,6 @@ I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate 
 ### AI/ML
 ![Langchain](https://img.shields.io/badge/Langchain-FF0000?style=flat-square&logo=python&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-008080?style=flat-square&logo=python&logoColor=white)
 
----
-
 ## 🏆 Certifications
 
 - **Information Processing Engineer**
@@ -41,13 +37,9 @@ I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate 
 - **Network Administrator Level 2**
 - **Linux Master Level 2**
 
----
-
 ## 🌐 Language Proficiency
 
 - **English**: OPIc - AL, TOEIC - 885
-
----
 
 ## 🌟 Connect with Me
 
@@ -65,4 +57,3 @@ I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate 
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
-

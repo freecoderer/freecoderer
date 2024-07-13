@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20%20&height=100&fontSize=90&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://i.redd.it/5wehmu37qxs21.jpg" width="400">
+  <img src="https://i.redd.it/5wehmu37qxs21.jpg" width="800">
 </p>
 
 ## About Me

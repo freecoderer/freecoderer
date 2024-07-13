@@ -1,6 +1,6 @@
 # Hi there, I'm Donghyun Kim! 👋
 
-![Header](https://your-image-url.com/yourheaderimage.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20DongHeyonKim%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50">
@@ -64,4 +64,5 @@ I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate 
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="50">
 </p>
 
-![Footer](https://your-image-url.com/yourfooterimage.png)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+

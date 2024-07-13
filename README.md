@@ -9,7 +9,7 @@
 </p>
 
 ## About Me
-I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate about understanding and managing all aspects of IT ecosystems within projects. My journey in tech began with a deep interest in embedded systems and has since expanded to encompass a broad array of technologies and management skills.
+I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate about understanding and managing all aspects of IT ecosystems within projects. My journey in tech began with a deep interest in embedded systems and has since expanded to encompass a broad array of technologies and management skills.
 
 - 🎓 **Education**: Computer Engineering graduate from Catholic University | Exchange student at University of Skövde, Sweden
 - 🌱 **Learning Goals**: Continuously aiming to grow as a generalist who can seamlessly integrate various IT ecosystems within project management.

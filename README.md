@@ -37,7 +37,7 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
 
 ## 🌐 Language Proficiency
 
-- **English**: OPIc - AL, TOEIC - 885
+- **English**: OPIc - AL TOEIC - 885
 
 ## 🌟 Connect with Me
 

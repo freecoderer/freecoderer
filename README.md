@@ -1,6 +1,6 @@
 # Hi there, I'm Donghyun Kim! 👋
 
-![Header](https://user-images.githubusercontent.com/yourusername/yourheaderimage.png)
+![Header](https://your-image-url.com/yourheaderimage.png)
 
 <p align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50">
@@ -64,4 +64,4 @@ I'm an aspiring IT PMO (Project Management Officer) and a generalist passionate 
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="50">
 </p>
 
-![Footer](https://user-images.githubusercontent.com/yourusername/yourfooterimage.png)
+![Footer](https://your-image-url.com/yourfooterimage.png)

@@ -1,7 +1,5 @@
 # Hi there, I'm Donghyun Kim! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&text=%20%20&height=100&fontSize=90&fontColor=ffffff)
-
 <p align="center">
   <img src="https://i.redd.it/5wehmu37qxs21.jpg" width="800">
 </p>
@@ -46,5 +44,3 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
   <a href="https://www.linkedin.com/in/kdh1999dev"><img src="https://img.shields.io/badge/-Donghyun%20Kim-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:donggood7@naver.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=BDE0FE)

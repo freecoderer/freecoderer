@@ -1,6 +1,6 @@
 # Hi there, I'm Donghyun Kim! 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&text=IT%20PMO&height=50&fontSize=20&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&text=IT%20PMO&height=80&fontSize=20&fontColor=ffffff)
 
 <p align="center">
   <img src="https://i.redd.it/5wehmu37qxs21.jpg" width="800">

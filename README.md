@@ -1,4 +1,4 @@
-# Hi there, I'm Donghyun Kim! 👋
+# Hi there, I'm DongHyeon Kim! 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&text=IT%20PMO&height=100&fontSize=50&fontColor=ffffff)
 

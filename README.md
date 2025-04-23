@@ -34,10 +34,11 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
 - **ADsP (Advanced Data Analytics Professional)**
 - **Network Administrator**
 - **Linux Master**
+- **EXCEL**
 
 ## 🌐 Language Proficiency
 
-- **English**: OPIc - AL TOEIC - 885
+- **English**: OPIc - AL IELTS - 7.0
 
 ## 🌟 Connect with Me
 

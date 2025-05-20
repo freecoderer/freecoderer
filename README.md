@@ -38,7 +38,7 @@ I'm an aspiring IT PMO (Project Management | Owner) and a generalist passionate 
 
 ## 🌐 Language Proficiency
 
-- **English**: OPIc - AL IELTS - 7.0
+- **English**: OPIc - AL IELTS - 7.5
 
 ## 🌟 Connect with Me
 
